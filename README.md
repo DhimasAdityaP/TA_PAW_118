@@ -26,7 +26,7 @@ Untuk menjalankan proyek ini di mesin lokal Anda, ikuti langkah-langkah berikut:
 1. Clone repositori ini:
    ```
    git clone https://github.com/DhimasAdityaP/TA_PAW_118.git
-   cd pastry-shop
+   cd TA_PAW_118
    ```
 
 2. Instal dependensi:
